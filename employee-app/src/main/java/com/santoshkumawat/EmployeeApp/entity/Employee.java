@@ -1,8 +1,7 @@
-package com.santoshkumawat.entity;
+package com.santoshkumawat.EmployeeApp.entity;
 
 import jakarta.persistence.*;
 
-import java.awt.print.PrinterJob;
 import java.util.List;
 
 @Entity

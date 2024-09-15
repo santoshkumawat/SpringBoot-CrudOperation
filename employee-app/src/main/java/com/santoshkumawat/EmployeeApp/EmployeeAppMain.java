@@ -1,4 +1,4 @@
-package com.santoshkumawat;
+package com.santoshkumawat.EmployeeApp;
 
 /**
  * Hello world!

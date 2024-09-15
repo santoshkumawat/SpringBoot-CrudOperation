@@ -1,4 +1,4 @@
-package com.santoshkumawat.entity;
+package com.santoshkumawat.EmployeeApp.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

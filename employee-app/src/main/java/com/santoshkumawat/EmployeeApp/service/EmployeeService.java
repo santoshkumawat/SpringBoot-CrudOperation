@@ -1,15 +1,13 @@
-package com.santoshkumawat.service;
+package com.santoshkumawat.EmployeeApp.service;
 
-import com.santoshkumawat.entity.Address;
-import com.santoshkumawat.entity.Employee;
-import com.santoshkumawat.repository.EmployeeRepository;
+import com.santoshkumawat.EmployeeApp.entity.Address;
+import com.santoshkumawat.EmployeeApp.entity.Employee;
+import com.santoshkumawat.EmployeeApp.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class EmployeeService {

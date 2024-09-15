@@ -1,7 +1,7 @@
-package com.santoshkumawat.controller;
+package com.santoshkumawat.EmployeeApp.controller;
 
-import com.santoshkumawat.entity.Employee;
-import com.santoshkumawat.service.EmployeeService;
+import com.santoshkumawat.EmployeeApp.entity.Employee;
+import com.santoshkumawat.EmployeeApp.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
