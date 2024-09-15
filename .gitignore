@@ -1,0 +1,81 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Ignore IDEA project files
+.idea/
+
+# Ignore build output directories
+/out/
+/target/
+*/out/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore JetBrains specific files
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/vcs.xml
+.idea/**/shelf/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and other generated files
+*.lock
+*.tmp
+*.swp
+
+# Ignore dependency directories
+/node_modules
+/vendor/
+
+# Ignore IntelliJ IDEA’s workspace and settings
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/modules.xml
+
+# Ignore Git ignore override files
+!.gitignore
